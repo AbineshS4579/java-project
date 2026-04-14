@@ -1,0 +1,13 @@
+com\complaints\dao\UserDAO.class
+com\complaints\model\Comment.class
+com\complaints\service\SessionService.class
+com\complaints\dao\ComplaintDAO$Binder.class
+com\complaints\swing\MainApp.class
+com\complaints\model\StatusHistory.class
+com\complaints\swing\MainApp$1.class
+com\complaints\controller\ApiServer.class
+com\complaints\util\DatabaseUtil.class
+com\complaints\util\JsonUtil.class
+com\complaints\model\User.class
+com\complaints\model\Complaint.class
+com\complaints\dao\ComplaintDAO.class
